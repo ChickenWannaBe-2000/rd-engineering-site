@@ -122,4 +122,6 @@
 
 </body>
 </html>
-ทำให้ออนไลน์ได้ไหม
+git add index.html
+git commit -m "add index page"
+git push -u origin master
